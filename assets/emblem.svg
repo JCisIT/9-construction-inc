@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 110" role="img" aria-label="9 Construction emblem">
-  <g fill="none" stroke-linejoin="miter" stroke-linecap="butt">
-    <polyline points="10,42 10,29 50,6 90,29 90,42" stroke="#5a6846" stroke-width="8"/>
-    <polyline points="10,68 10,81 50,104 90,81 90,68" stroke="#5a6846" stroke-width="8"/>
-    <polyline points="17,43 5,55 17,67" stroke="#d68a1a" stroke-width="7"/>
-    <polyline points="83,43 95,55 83,67" stroke="#d68a1a" stroke-width="7"/>
-  </g>
-  <path fill="#7c8a64" fill-rule="evenodd" d="M38 26 H62 L67 31 V81 L62 86 H38 L33 81 V75 H55 V60 H38 L33 55 V31 Z M45 36 V50 H55 V36 Z"/>
-</svg>
